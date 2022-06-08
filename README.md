@@ -36,7 +36,7 @@ add_subdirectory(/youpath/FairyGUI-cocos2dx/Examples ${ENGINE_BINARY_PATH}/Fairy
 Learn
 ====
 
-[教程](https://www.fairygui.com/docs/guide/index.html)  
+[DOC](https://en.fairygui.com/docs/sdk/cocos2dx)  
 
 License
 ====
